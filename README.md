@@ -1,5 +1,8 @@
 # git-commit-emoji-conventions
 
+
+### Git Commit Emoji conventions
+
 | Category                   | Emoji                           | Description                                          | Commit Example 1                                | Commit Example 2                              |
 |----------------------------|---------------------------------|------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
 | **Fundamental**            | ✨ `:sparkles:`                  | Feature                                              | "Implement user authentication feature"                | "Add OAuth2 support for user authentication"           |
