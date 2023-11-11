@@ -2,7 +2,7 @@
 
 | Category                   | Emoji                           | Description                                          | Commit Example 1                                | Commit Example 2                              |
 |----------------------------|---------------------------------|------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| **Fundamental**            | ✨ (:sparkles:)                  | Feature                                              | "Implement user authentication feature"                | "Add OAuth2 support for user authentication"           |
+| **Fundamental**            | ✨ `:sparkles:`                  | Feature                                              | "Implement user authentication feature"                | "Add OAuth2 support for user authentication"           |
 |                            | 🐛 (:bug:)                       | Bug Fix                                              | "Fix null pointer exception in user login"             | "Resolve issue with incorrect error handling"          |
 |                            | 📚 (:books:)                     | Documentation                                        | "Update API documentation for new endpoints"          | "Add usage examples to API documentation"              |
 |                            | 💎 (:gem:) 🔨 (:hammer:)         | Code Style/Refactoring                               | "Refactor utility class for better readability"        | "Improve code structure in utility functions"          |
