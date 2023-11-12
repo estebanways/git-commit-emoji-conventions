@@ -35,6 +35,6 @@
 | **Bug Investigation**      | 🔍 `:mag:`                       | Bug Investigation                                   | "Investigate and fix issue with data corruption"        | "Analyze and address bug reports from user feedback"  |
 | **Third-Party Integration** | 🤝 `:handshake:`                 | Third-Party Integration                              | "Integrate payment gateway for online transactions"    | "Implement API integration for third-party service"   |
 | **Mocking/Faking**         | 🤖 `:robot:`                     | Mocking/Faking Services                              | "Implement mock service for external API testing"      | "Create dummy data service for testing purposes"      |
-| **Error Handling**         | 🚨 `:rotating_light:`           | Error Handling                                       | "Improve error handling for user input validation"      | "Enhance error messages for better user understanding" |
+| **Error Handling**         | ❌ `:x:`               | Error Handling                                       | "Improve error handling for user input validation"      | "Enhance error messages for better user understanding" |
 | **Logging Improvement**    | 📈 `:chart_with_upwards_trend:` | Logging Improvement                                  | "Enhance logging to capture additional metrics"        | "Implement log rotation for efficient log management"  |
 
